@@ -10,3 +10,15 @@ C:\Users\Egitim10\Desktop\Redis_Cache\6-RedisCache_Octions\RedisCacheOction\Json
 C:\Users\Egitim10\Desktop\Redis_Cache\6-RedisCache_Octions\RedisCacheOction\Jsonizer\obj\Debug\net7.0\refint\Jsonizer.dll
 C:\Users\Egitim10\Desktop\Redis_Cache\6-RedisCache_Octions\RedisCacheOction\Jsonizer\obj\Debug\net7.0\Jsonizer.pdb
 C:\Users\Egitim10\Desktop\Redis_Cache\6-RedisCache_Octions\RedisCacheOction\Jsonizer\obj\Debug\net7.0\ref\Jsonizer.dll
+C:\Users\Egitim10\Desktop\Jsonizer\bin\Debug\net7.0\Jsonizer.deps.json
+C:\Users\Egitim10\Desktop\Jsonizer\bin\Debug\net7.0\Jsonizer.dll
+C:\Users\Egitim10\Desktop\Jsonizer\bin\Debug\net7.0\Jsonizer.pdb
+C:\Users\Egitim10\Desktop\Jsonizer\obj\Debug\net7.0\Jsonizer.csproj.AssemblyReference.cache
+C:\Users\Egitim10\Desktop\Jsonizer\obj\Debug\net7.0\Jsonizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egitim10\Desktop\Jsonizer\obj\Debug\net7.0\Jsonizer.AssemblyInfoInputs.cache
+C:\Users\Egitim10\Desktop\Jsonizer\obj\Debug\net7.0\Jsonizer.AssemblyInfo.cs
+C:\Users\Egitim10\Desktop\Jsonizer\obj\Debug\net7.0\Jsonizer.csproj.CoreCompileInputs.cache
+C:\Users\Egitim10\Desktop\Jsonizer\obj\Debug\net7.0\Jsonizer.dll
+C:\Users\Egitim10\Desktop\Jsonizer\obj\Debug\net7.0\refint\Jsonizer.dll
+C:\Users\Egitim10\Desktop\Jsonizer\obj\Debug\net7.0\Jsonizer.pdb
+C:\Users\Egitim10\Desktop\Jsonizer\obj\Debug\net7.0\ref\Jsonizer.dll

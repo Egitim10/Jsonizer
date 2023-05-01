@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Egitim10\\Desktop\\Redis_Cache\\6-RedisCache_Octions\\RedisCacheOction\\Jsonizer\\Jsonizer.csproj",
+      "projectUniqueName": "C:\\Users\\Egitim10\\Desktop\\Jsonizer\\Jsonizer.csproj",
       "projectName": "Jsonizer",
-      "projectPath": "C:\\Users\\Egitim10\\Desktop\\Redis_Cache\\6-RedisCache_Octions\\RedisCacheOction\\Jsonizer\\Jsonizer.csproj",
+      "projectPath": "C:\\Users\\Egitim10\\Desktop\\Jsonizer\\Jsonizer.csproj",
       "packagesPath": "C:\\Users\\Egitim10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Egitim10\\Desktop\\Redis_Cache\\6-RedisCache_Octions\\RedisCacheOction\\Jsonizer\\obj\\",
+      "outputPath": "C:\\Users\\Egitim10\\Desktop\\Jsonizer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QjbKuQXaibiqj2cpCYHWHMfAYDPR5uJtGx1mCOe5DXy1md+zm7GVN8RfAilXM5a4T9/P6b+n7j2rrr9bXP4/gA==",
+  "dgSpecHash": "d6bPAkBaiXT7W0Cp+uN1B4R8UjXQtIDsB5YXt7oCaOgXdoBX6kAq7E4TvPoEvV5w55ROB8/IcTUocupUb33dSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Egitim10\\Desktop\\Redis_Cache\\6-RedisCache_Octions\\RedisCacheOction\\Jsonizer\\Jsonizer.csproj",
+  "projectFilePath": "C:\\Users\\Egitim10\\Desktop\\Jsonizer\\Jsonizer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
