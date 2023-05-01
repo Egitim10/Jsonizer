@@ -1,5 +1,5 @@
 # Jsonizer
-Jsonizer is a library for practical usage for Dotnet  "System.Text.Jsonserializer"  
+Jsonizer is a library for practical usage for Dotnet  "System.Text.JsonSerializer"  
 
 
 # USAGE OF EXTENTION METHODS
