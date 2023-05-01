@@ -4,6 +4,7 @@ Jsonizer is a library for practical usage for Dotnet  "System.Text.Jsonserialize
 
 # USAGE OF EXTENTION METHODS
 ```
+(Does not need  to be added to the services)
 ```
 ```csharp
 List<Userx> users = new()
@@ -20,13 +21,15 @@ var objectListFromJsonString = jsonStrFromListOfObjects.JsonizertoObject<List<Us
 
 # USAGE OF METHODS OF CONCRETE CLASS
 ```
+(Needs to be added to the services)
 ```
 ```csharp
 
 builder.Services.AddDbContext<RedisApiDbContext>(ops => ops.UseSqlServer(builder.Configuration.GetConnectionString("ALO")));
 builder.Services.AddSingleton<IJsonizer>(m =>
 {
-    return new MyJsonizer(false, JavaScriptEncoder.UnsafeRelaxedJsonEscaping, JsonNamingPolicy.CamelCase, ReferenceHandler.IgnoreCycles);
+    return new MyJsonizer(false, JavaScriptEncoder.UnsafeRelaxedJsonEscaping, 
+    JsonNamingPolicy.CamelCase, ReferenceHandler.IgnoreCycles);
 });
 
 var app = builder.Build();
