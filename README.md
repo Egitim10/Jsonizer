@@ -16,8 +16,7 @@ List<Userx> users = new()
 
 var jsonStrFromListOfObjects = users.JsonizerToString();
 var objectListFromJsonString = jsonStrFromListOfObjects.JsonizertoObject<List<Userx>>();
-
-
+```
 
 # USAGE OF METHODS OF CONCRETE CLASS
 ```
@@ -62,4 +61,4 @@ using (var scope = app.Services.CreateScope())
     //var dbx = scope.ServiceProvider.GetRequiredService<UserxDBContetx>();
     //dbx.Database.Migrate();
 }
-
+```
